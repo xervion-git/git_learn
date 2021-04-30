@@ -13,6 +13,7 @@ int main()
 	std::cout << "Ali Jafarzadeh_2" << std::endl;
 	std::cout << "CHECK STASH" << std::endl;
 	std::cout << "CHECK RESET" << std::endl;
+	std::cout << "CHECK Conflict" << std::endl;
 
 	size_t a   = 12;
 	size_t b   = 13;
