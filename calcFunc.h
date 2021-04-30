@@ -14,4 +14,4 @@ void min(size_t& res, size_t in1, size_t in2);
 void xo(size_t& res, size_t in1, size_t in2);
 void an(size_t& res, size_t in1, size_t in2);
 
-void tan((size_t& res, size_t in1, size_t in2);
+void tan(size_t& res, size_t in1, size_t in2);
