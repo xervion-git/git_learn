@@ -6,6 +6,7 @@ int main()
 {
 	std::cout << "Some clac functions:" << std::endl;
 	std::cout << "First Change" << std::endl;
+	std::cout << "Second Change" << std::endl;
 
 	size_t a   = 12;
 	size_t b   = 13;
