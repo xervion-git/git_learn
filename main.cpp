@@ -4,7 +4,7 @@
 
 int main()
 {
-	std::cout << "Hello World :)" << std::endl;
+	std::cout << "Some clac functions:" << std::endl;
 
 	size_t a   = 12;
 	size_t b   = 13;
@@ -18,6 +18,9 @@ int main()
 
 	dev(res, a, b);
 	std::cout << "DEV: res is: " << res << std::endl;
+
+	sub(res, a, b);
+	std::cout << "SUB: res is: " << res << std::endl;
 
 	return 0;
 }
