@@ -19,5 +19,8 @@ int main()
 	dev(res, a, b);
 	std::cout << "DEV: res is: " << res << std::endl;
 
+	sub(res, a, b);
+	std::cout << "SUB: res is: " << res << std::endl;
+
 	return 0;
 }
