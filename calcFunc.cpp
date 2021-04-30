@@ -45,3 +45,9 @@ void an(size_t& res, size_t in1, size_t in2)
 {
     res = in1 & in2;
 }
+
+void tan(size_t& res, size_t in1, size_t in2)
+{
+    res = in1 + in2;
+}
+
