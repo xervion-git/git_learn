@@ -4,7 +4,7 @@
 
 int main()
 {
-	std::cout << "Hello World :)" << std::endl;
+	std::cout << "Some clac functions:" << std::endl;
 
 	size_t a   = 12;
 	size_t b   = 13;
